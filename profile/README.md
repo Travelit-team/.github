@@ -1,4 +1,4 @@
-# 팀 프로젝트 이름
+# Travelit
 
 - 프로젝트 설명이 들어갈 부분입니다.  
 
@@ -22,6 +22,17 @@
 
 ### ***BackEnd***
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/static/v1?style=for-the-badge&color=6DB33F&message=spring+boot&logo=springboot&logoColor=white&label=)
+![Thymeleaf](https://img.shields.io/static/v1?style=for-the-badge&color=005F0F&message=Thymeleaf&logo=Thymeleaf&logoColor=white&label=)
+![Gradle](https://img.shields.io/static/v1?style=for-the-badge&color=02303A&message=Gradle&logo=Gradle&logoColor=white&label=)
+![MyBatis](https://img.shields.io/badge/MyBatis-663399?style=for-the-badge&logo=MyBatis&logoColor=white)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&color=003545&message=MySQL&logo=MySQL&logoColor=white&label=)  
+
+### ***Infra***
+![AWS EC2](https://img.shields.io/static/v1?style=for-the-badge&color=FF9900&message=aws+ec2&logo=amazonec2&logoColor=black&label=)
+![AWS S3](https://img.shields.io/static/v1?style=for-the-badge&color=569A31&message=aws+s3&logo=amazons3&logoColor=black&label=)
+![AWS RDS](https://img.shields.io/static/v1?style=for-the-badge&color=527FFF&message=AWS+RDS&logo=amazonrds&logoColor=black&label=)
+
 
 </br>
 
@@ -55,10 +66,16 @@ feat: 로그인 기능 구현 <---- feat 옆에 콜론을 붙이자!
 <table>
 	<tbody>
 		<tr>
+			<th><img width="150px" src="https://github.com/pjiny92.png" alt="박혜진"/></th>
 			<th><img width="150px" src="https://github.com/sksrpf1126.png" alt="임성현"/></th>
+			<th><img width="150px" src="https://github.com/HeegeneChae.png" alt="채희진"/></th>
+			<th><img width="150px" src="https://github.com/JinyDev95.png" alt="최원진"/></th>
 		</tr>
 		<tr>
+			<th><a href="https://github.com/pjiny92" target="_blank">박혜진</a></th>
 			<th><a href="https://github.com/sksrpf1126" target="_blank">임성현</a></th>
+			<th><a href="https://github.com/HeegeneChae" target="_blank">채희진</a></th>
+			<th><a href="https://github.com/JinyDev95" target="_blank">최원진</a></th>
 		</tr>
 	</tbody>
 </table>
